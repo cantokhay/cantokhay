@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hello, I'm Can Tokhay 👋
 
-<!--
-**cantokhay/cantokhay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- **Location:** Ankara, Turkey
+- **Email:** cantokhay@gmail.com
+- **Linkedin:** [linkedin.com/cantokhay](https://www.linkedin.com/in/cantokhay)
 
-Here are some ideas to get you started:
+## Summary
+After gaining enough experience in technical and managerial fields in the construction, defense, food and machinery 
+manufacturing sectors; I made a transition where I could share my experiences in terms of both management and vision. With 
+BilgeAdam experience, I call myself as a Junior Full-Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education
+- **Full-Stack Developer** - BilgeAdam Boost (2023 - 2024, Remote)
+- **Mechanical Engineering** - Osmangazi University, Eskisehir (2009 - 2014)
+
+## Skills
+- **Programming Languages:** .Net Core, C#, HTML, CSS, JavaScript
+- **Databases:** SQL
+- **Frameworks:** Entity Framework, ASP .NET MVC
+- **Other Tools:** AutoCAD, SolidWorks, Siemens NX CAD/CAM
