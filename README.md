@@ -35,7 +35,7 @@
 <div style="display: flex; flex-wrap: wrap;">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" width="50" style="margin: 5px;"/> 
     <img src="https://cdn.icon-icons.com/icons2/2667/PNG/512/another_redis_desktop_manager_icon_161297.png" alt="Redis" width="50" style="margin: 5px;"/> 
-    <img src="https://avatars.githubusercontent.com/u/96669?s=200&v=4" alt="RabbitMQ" width="50" style="margin: 5px;"/>
+    <img src="https://w7.pngwing.com/pngs/890/101/png-transparent-rabbitmq-advanced-message-queuing-protocol-message-queue-computer-network-others-miscellaneous-computer-network-angle-thumbnail.png" alt="RabbitMQ" width="50" style="margin: 5px;"/>
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" style="margin: 5px;"/> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" alt="Swagger" width="50" style="margin: 5px;"/> 
     <img src="https://img.icons8.com/color/200/autocad.png" alt="AutoCAD" width="50" style="margin: 5px;"/> 
