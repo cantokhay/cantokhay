@@ -18,7 +18,7 @@
 ## 🚀 Technologies & Tools
 
 ### Front-End Technologies:
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/HTML5_logo_and_wordmark.svg" alt="HTML5" width="80"/> 
+<img src="[https://upload.wikimedia.org/wikipedia/commons/6/6c/HTML5_logo_and_wordmark.svg](https://www.svgrepo.com/show/303205/html-5-logo.svg)" alt="HTML5" width="80"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/CSS3_logo_and_wordmark.svg" alt="CSS3" width="80"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/JavaScript-logo.png" alt="JavaScript" width="80"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="ReactJS" width="80"/> 
