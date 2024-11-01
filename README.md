@@ -47,6 +47,6 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="80" style="margin: 5px;"/> 
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9GlozyrEsA25S68xqsWEgejZkSQPi2L7SBw&s" alt="Swagger" width="80" style="margin: 5px;"/> 
     <img src="https://w7.pngwing.com/pngs/840/605/png-transparent-letter-a-illustration-autocad-lt-computer-aided-design-drawing-autodesk-autocad-logo-angle-3d-computer-graphics-triangle-thumbnail.png" alt="AutoCAD" width="80" style="margin: 5px;"/> 
-    <img src="https://raw.githubusercontent.com/github/explore/9bcb5f5f7e39cb9b835b5a1ff4e52c7c97e1f59b/topics/solidworks/solidworks.png" alt="SolidWorks" width="80" style="margin: 5px;"/> 
+    <img src="https://www.3ds.com/assets/3ds-navigation/3DS_corporate-logo_solidworks.svg" alt="SolidWorks" width="80" style="margin: 5px;"/> 
     <img src="https://raw.githubusercontent.com/github/explore/9cb4445c8c5b10f8478575e647c79cbfe75ae9c7/topics/siemens/siemens.png" alt="Siemens NX" width="80" style="margin: 5px;"/> 
 </div>
