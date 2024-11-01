@@ -42,7 +42,7 @@
 ### Other Tools:
 <div style="display: flex; flex-wrap: wrap;">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" width="80" style="margin: 5px;"/> 
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" alt="Redis" width="80" style="margin: 5px;"/> 
+    <img src="https://cdn.icon-icons.com/icons2/2667/PNG/512/another_redis_desktop_manager_icon_161297.png" alt="Redis" width="80" style="margin: 5px;"/> 
     <img src="https://avatars.githubusercontent.com/u/96669?s=200&v=4" alt="RabbitMQ" width="80" style="margin: 5px;"/>
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="80" style="margin: 5px;"/> 
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9GlozyrEsA25S68xqsWEgejZkSQPi2L7SBw&s" alt="Swagger" width="80" style="margin: 5px;"/> 
