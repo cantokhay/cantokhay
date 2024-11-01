@@ -17,7 +17,7 @@
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL Server" width="80" style="margin: 5px;"/> 
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostgreSQL" width="80" style="margin: 5px;"/> 
     <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="80" style="margin: 5px;"/>
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dapper/dapper.png" alt="Dapper" width="80" style="margin: 5px;"/> 
+    <img src="https://dapper-tattoo.com/assets/dapper-logo.svg" alt="Dapper" width="80" style="margin: 5px;"/>
 </div>
 
 ### Other Tools:
