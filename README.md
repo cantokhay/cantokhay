@@ -48,5 +48,5 @@
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9GlozyrEsA25S68xqsWEgejZkSQPi2L7SBw&s" alt="Swagger" width="80" style="margin: 5px;"/> 
     <img src="https://w7.pngwing.com/pngs/840/605/png-transparent-letter-a-illustration-autocad-lt-computer-aided-design-drawing-autodesk-autocad-logo-angle-3d-computer-graphics-triangle-thumbnail.png" alt="AutoCAD" width="80" style="margin: 5px;"/> 
     <img src="https://e7.pngegg.com/pngimages/80/195/png-clipart-solidworks-computer-software-3d-computer-graphics-computer-aided-design-design-3d-computer-graphics-text-thumbnail.png" alt="SolidWorks" width="80" style="margin: 5px;"/> 
-    <img src="https://raw.githubusercontent.com/github/explore/9cb4445c8c5b10f8478575e647c79cbfe75ae9c7/topics/siemens/siemens.png" alt="Siemens NX" width="80" style="margin: 5px;"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/en/5/51/Siemens_NX_Logo.png" alt="Siemens NX" width="80" style="margin: 5px;"/> 
 </div>
