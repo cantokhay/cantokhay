@@ -1,12 +1,12 @@
-# Hi there, I'm Can Tokhay 👋
+# Hi there, I'm Can Tokhay 👋🏼
 
-💫 **About Me:**
-- 🔭 I’m currently enhancing my skills as a Full-Stack Developer.
-- 🌱 I’m exploring .NET technologies and APIs.
-- 🤔 I’m looking to connect with others interested in real-time web applications.
-- 📫 How to reach me: Email - cantokhay@gmail.com
+🌟 **About Me:**
+- 🛠️ I’m currently enhancing my skills as a Full-Stack Developer.
+- 📚 I’m exploring .NET technologies and APIs.
+- 🤝 I’m looking to connect with others interested in real-time web applications.
+- 📧 How to reach me: Email - cantokhay@gmail.com
 
-## 🌐 Socials
+## 🌍 Socials
 - [LinkedIn](https://www.linkedin.com/in/cantokhay)
 
 ## 📊 GitHub Stats:
