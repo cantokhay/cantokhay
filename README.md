@@ -39,7 +39,7 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" style="margin: 5px;"/> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" alt="Swagger" width="50" style="margin: 5px;"/> 
     <img src="https://img.icons8.com/color/200/autocad.png" alt="AutoCAD" width="50" style="margin: 5px;"/> 
-    <img src=https://w7.pngwing.com/pngs/613/563/png-transparent-red-and-white-sw-cube-illustration-solidworks-logo-computer-software-mechanical-engineering-cam-newton-miscellaneous-3d-computer-graphics-text-thumbnail.png" alt="SolidWorks" width="50" style="margin: 5px;"/> 
+    <img src="https://img.icons8.com/?size=512&id=62397&format=png" alt="SolidWorks" width="50" style="margin: 5px;"/> 
     <img src="https://upload.wikimedia.org/wikipedia/en/5/51/Siemens_NX_Logo.png" alt="Siemens NX" width="50" style="margin: 5px;"/> 
 </div>
 
