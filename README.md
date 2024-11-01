@@ -25,7 +25,7 @@
 
 ### Databases:
 <div style="display: flex; flex-wrap: wrap;">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxRnhZ_ALrEpAJLICoKTgjtCnsOdKOPs6OGw&s" alt="SQL Server" width="50" style="margin: 5px;"/> 
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="50" style="margin: 5px;"/> 
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostgreSQL" width="50" style="margin: 5px;"/> 
     <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="50" style="margin: 5px;"/>
     <img src="https://avatars.githubusercontent.com/u/83077457?s=200&v=4" alt="Dapper" width="50" style="margin: 5px;"/>
