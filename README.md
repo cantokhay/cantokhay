@@ -1,21 +1,41 @@
-# Hello, I'm Can Tokhay 👋
+# Hi there, I'm Can Tokhay 👋
 
-## About Me
-- **Location:** Ankara, Turkey
-- **Email:** cantokhay@gmail.com
-- **Linkedin:** [linkedin.com/cantokhay](https://www.linkedin.com/in/cantokhay)
+💫 **About Me:**
+- 🔭 I’m currently enhancing my skills as a Full-Stack Developer.
+- 🌱 I’m exploring .NET technologies and APIs.
+- 🤔 I’m looking to connect with others interested in real-time web applications.
+- 📫 How to reach me: Email - cantokhay@gmail.com
 
-## Summary
-After gaining enough experience in technical and managerial fields in the construction, defense, food and machinery 
-manufacturing sectors; I made a transition where I could share my experiences in terms of both management and vision. With 
-BilgeAdam experience, I call myself as a Full-Stack Developer
+## 🌐 Socials
+- [LinkedIn](https://www.linkedin.com/in/cantokhay)
 
-## Education
-- **Full-Stack Developer** - BilgeAdam Boost (2023 - 2024, Remote)
-- **Mechanical Engineering** - Osmangazi University, Eskisehir (2009 - 2014)
+## 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cantokhay&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
-## Skills
-- **Programming Languages:** .Net Core, C#, HTML, CSS, JavaScript, ReactJS, Azure, Git, Postman, Docker, Redis
-- **Databases:** SQL
-- **Frameworks:** Entity Framework, ASP .NET MVC
-- **Other Tools:** AutoCAD, SolidWorks, Siemens NX CAD/CAM
+## 🚀 Technologies & Tools
+
+### Front-End Technologies:
+- HTML5
+- CSS3
+- JavaScript
+- ReactJS
+
+### Back-End Technologies:
+- .NET Core
+- C#
+
+### Databases:
+- SQL Server
+- PostgreSQL
+- MongoDB
+- Dapper
+
+### Other Tools:
+- Docker
+- Redis
+- RabbitMQ
+- Postman
+- Swagger
+- AutoCAD
+- SolidWorks
+- Siemens NX CAD/CAM
