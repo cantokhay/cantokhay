@@ -1,4 +1,4 @@
-# Hi there, I'm Can Tokhay 👋🏼
+## Hi there, I'm Can Tokhay 👋🏼
 
 🌟 **About Me:**
 - 🛠️ Full-Stack Developer.
@@ -7,15 +7,15 @@
 - 📧 Feel free to mail me - cantokhay@gmail.com
 - 🌍 [LinkedIn](https://www.linkedin.com/in/cantokhay)
 
-## 📊 GitHub Stats:
+### 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cantokhay&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
-## 👀 Profile Views:
+### 👀 Profile Views:
 ![Profile Views](https://komarev.com/ghpvc/?username=cantokhay)
 
-## 🚀 Technologies & Tools
+### 🚀 Technologies & Tools
 
-### Front-End Technologies:
+#### Front-End Technologies:
 <div style="display: flex; flex-wrap: wrap;">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5" width="50" style="margin: 5px;"/> 
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS3" width="50" style="margin: 5px;"/> 
@@ -23,13 +23,13 @@
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="ReactJS" width="50" style="margin: 5px;"/> 
 </div>
 
-### Back-End Technologies:
+#### Back-End Technologies:
 <div style="display: flex; flex-wrap: wrap;">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="C#" width="50" style="margin: 5px;"/> 
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" alt=".NET Core" width="50" style="margin: 5px;"/> 
 </div>
 
-### Databases:
+#### Databases:
 <div style="display: flex; flex-wrap: wrap;">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxRnhZ_ALrEpAJLICoKTgjtCnsOdKOPs6OGw&s" alt="SQL Server" width="50" style="margin: 5px;"/> 
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostgreSQL" width="50" style="margin: 5px;"/> 
@@ -37,7 +37,7 @@
     <img src="https://avatars.githubusercontent.com/u/83077457?s=200&v=4" alt="Dapper" width="50" style="margin: 5px;"/>
 </div>
 
-### Other Tools:
+#### Other Tools:
 <div style="display: flex; flex-wrap: wrap;">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" width="50" style="margin: 5px;"/> 
     <img src="https://cdn.icon-icons.com/icons2/2667/PNG/512/another_redis_desktop_manager_icon_161297.png" alt="Redis" width="50" style="margin: 5px;"/> 
