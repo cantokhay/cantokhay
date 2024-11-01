@@ -31,7 +31,7 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL Server" width="80"/> 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostgreSQL" width="80"/> 
 <img src="https://raw.githubusercontent.com/github/explore/8fa4ec8ee00ccf973c749d8f9d20743c0fd2266f/topics/mongodb/mongodb.png" alt="MongoDB" width="80"/> 
-<img src="[https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dapper/dapper.png](https://avatars.githubusercontent.com/u/83077457?s=200&v=4)" alt="Dapper" width="80"/> 
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dapper/dapper.png" alt="Dapper" width="80"/> 
 
 ### Other Tools:
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" width="80"/> 
