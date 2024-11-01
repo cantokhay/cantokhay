@@ -24,7 +24,7 @@
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" width="80" style="margin: 5px;"/> 
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" alt="Redis" width="80" style="margin: 5px;"/> 
     <img src="https://avatars.githubusercontent.com/u/96669?s=200&v=4" alt="RabbitMQ" width="80" style="margin: 5px;"/>
-    <img src="https://raw.githubusercontent.com/github/explore/8e50b6debdc68ec562f5ac2dc8c75e9d1c2d01c3/topics/postman/postman.png" alt="Postman" width="80" style="margin: 5px;"/> 
+    <img src="https://www.vectorlogo.zone/util/preview?image=/logos/getpostman/getpostman-icon.svg" alt="Postman" width="80" style="margin: 5px;"/> 
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swagger/swagger.png" alt="Swagger" width="80" style="margin: 5px;"/> 
     <img src="https://raw.githubusercontent.com/github/explore/69a7ae4e6d34aa92eaf6bdfddf5e0c802e845bcf/topics/autocad/autocad.png" alt="AutoCAD" width="80" style="margin: 5px;"/> 
     <img src="https://raw.githubusercontent.com/github/explore/9bcb5f5f7e39cb9b835b5a1ff4e52c7c97e1f59b/topics/solidworks/solidworks.png" alt="SolidWorks" width="80" style="margin: 5px;"/> 
