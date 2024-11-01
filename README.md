@@ -38,7 +38,7 @@
     <img src="https://avatars.githubusercontent.com/u/96669?s=200&v=4" alt="RabbitMQ" width="50" style="margin: 5px;"/>
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" style="margin: 5px;"/> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" alt="Swagger" width="50" style="margin: 5px;"/> 
-    <img src="https://w7.pngwing.com/pngs/840/605/png-transparent-letter-a-illustration-autocad-lt-computer-aided-design-drawing-autodesk-autocad-logo-angle-3d-computer-graphics-triangle-thumbnail.png" alt="AutoCAD" width="50" style="margin: 5px;"/> 
+    <img src="https://img.icons8.com/color/200/autocad.png" alt="AutoCAD" width="50" style="margin: 5px;"/> 
     <img src="https://e7.pngegg.com/pngimages/80/195/png-clipart-solidworks-computer-software-3d-computer-graphics-computer-aided-design-design-3d-computer-graphics-text-thumbnail.png" alt="SolidWorks" width="50" style="margin: 5px;"/> 
     <img src="https://upload.wikimedia.org/wikipedia/en/5/51/Siemens_NX_Logo.png" alt="Siemens NX" width="50" style="margin: 5px;"/> 
 </div>
