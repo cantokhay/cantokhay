@@ -5,9 +5,7 @@
 - 📚 .NET technologies and APIs.
 - 🤝 Looking to connect with others to improve my network.
 - 📧 Feel free to mail me - cantokhay@gmail.com
-
-## 🌍 Socials
-- [LinkedIn](https://www.linkedin.com/in/cantokhay)
+- 🌍 [LinkedIn](https://www.linkedin.com/in/cantokhay)
 
 ## 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cantokhay&show_icons=true&hide_title=true&count_private=true&theme=radical)
