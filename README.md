@@ -1,4 +1,4 @@
-# Hi there, I'm Can Tokhay 👋🏼
+# 👋🏼 Hi there, I'm Can Tokhay
 
 🌟 **About Me:**
 - 🛠️ Full-Stack Developer.
