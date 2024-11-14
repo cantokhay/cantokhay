@@ -2,7 +2,7 @@
 
 🌟 **About Me:**
 - 🛠️ Full-Stack Developer.
-- 📚 .NET technologies and APIs.
+- 📚 .NET technologies, Databases and APIs.
 - 🤝 Looking for work opportunities.
 - 📧 Feel free to mail me - cantokhay@gmail.com
 - 🌍 My LinkedIn Profile - [LinkedIn](https://www.linkedin.com/in/cantokhay)
