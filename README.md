@@ -37,7 +37,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" alt="Swagger" width="50" style="margin: 5px;"/> 
     <img src="https://img.icons8.com/color/200/autocad.png" alt="AutoCAD" width="50" style="margin: 5px;"/> 
     <img src="https://img.icons8.com/?size=512&id=62397&format=png" alt="SolidWorks" width="50" style="margin: 5px;"/> 
-    <img src="https://w7.pngwing.com/pngs/822/195/png-transparent-siemens-nx-computer-aided-design-computer-software-product-lifecycle-design-globe-computer-wallpaper-engineering-thumbnail.png" alt="Siemens NX" width="50" style="margin: 5px;"/> 
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX-dxQ9B2jHNnGUBQS0Whfa7iiEH9sp0LTpmQZFq38fI77Vd8U_RcaNl-6p45wl80LlN0&usqp=CAU" alt="Siemens NX" width="50" style="margin: 5px;"/> 
 </div>
 
 ## 📊 GitHub Stats:
