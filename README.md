@@ -41,7 +41,7 @@
 </div>
 
 ## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cantokhay&show_icons=true&hide_title=true&count_private=true&theme=neon)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cantokhay&show_icons=true&hide_title=false&count_private=true&theme=neon)
 
 ## 👀 Profile Views:
 ![Profile Views](https://komarev.com/ghpvc/?username=cantokhay)
