@@ -31,7 +31,7 @@
     <img src="https://avatars.githubusercontent.com/u/83077457?s=200&v=4" alt="Dapper" width="50" style="margin: 5px;"/>
     <img src="https://camo.githubusercontent.com/64e548b49faf71b543f53803911053c9a0f1d71b069821fdc5198d0eddef9379/68747470733a2f2f646f63732e6d6963726f736f66742e636f6d2f73762d73652f617a7572652f6d656469612f696e6465782f617a7572652d7369676e616c722e737667" alt="SignalR" width="50" style="margin: 5px;"/>
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" width="50" style="margin: 5px;"/> 
-    <img src="https://cdn.icon-icons.com/icons2/2667/PNG/512/another_redis_desktop_manager_icon_161297.png" alt="Redis" width="50" style="margin: 5px;"/> 
+    <img src="https://img.icons8.com/?size=100&id=pHS3eRpynIRQ&format=png&color=000000" alt="Redis" width="50" style="margin: 5px;"/> 
     <img src="https://www.svgrepo.com/show/303576/rabbitmq-logo.svg" alt="RabbitMQ" width="50" style="margin: 5px;"/>
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" style="margin: 5px;"/> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" alt="Swagger" width="50" style="margin: 5px;"/> 
