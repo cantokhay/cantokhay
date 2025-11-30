@@ -40,8 +40,5 @@
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX-dxQ9B2jHNnGUBQS0Whfa7iiEH9sp0LTpmQZFq38fI77Vd8U_RcaNl-6p45wl80LlN0&usqp=CAU" alt="Siemens NX" width="50" style="margin: 5px;"/> 
 </div>
 
-## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cantokhay&show_icons=true&hide_title=false&count_private=true&theme=neon)
-
 ## 👀 Profile Views:
 ![Profile Views](https://komarev.com/ghpvc/?username=cantokhay)
